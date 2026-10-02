@@ -1,10 +1,9 @@
 class Apkeep < Formula
   desc "Command-line tool for downloading APK files from various sources"
   homepage "https://github.com/EFForg/apkeep"
-  url "https://github.com/EFForg/apkeep/archive/refs/tags/1.0.0.tar.gz"
-  sha256 "0c7a9c84b5dff12c356b22878e4f88ff3f1b44500ff80436c9e64cee17146388"
+  url "https://github.com/EFForg/apkeep/archive/refs/tags/1.1.0.tar.gz"
+  sha256 "20407a9420cb2a47a8801d744a8ebeefff5d0cc62c5a956445724fb5cde5897c"
   license "MIT"
-  revision 1
   head "https://github.com/EFForg/apkeep.git", branch: "master"
 
   livecheck do
